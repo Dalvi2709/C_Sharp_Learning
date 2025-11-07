@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         public static void Main(String[] args)
         {
+            /*if else conditional statement*/
             Console.WriteLine("Enter Username");
             string username = Console.ReadLine();
             Console.WriteLine("Enter Password");
