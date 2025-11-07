@@ -10,6 +10,9 @@ namespace ConsoleApp1
     {
         public static void Main(String [] args)
         {
+            /*data types and variables*/
+            /*value type and reference type*/
+            /*local,global and instance and static variable*/
             int a = 10;
             Console.WriteLine("Interger value :"+a);
 
