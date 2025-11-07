@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         public static void Main(String [] args)
         {
+        /*for loop iterration count known*/
+
             /*int n = 10, number = 4;
             
 
