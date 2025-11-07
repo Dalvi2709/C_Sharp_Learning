@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         public static void Main(string [] args)
         {
+             /*Array similar type of data store, random access */
+
             int[] arr = { 10, 20, 30, 40, 50 };
             int[] arr1 = new int[3];
             string[] city = { "satara", "pune", "mumbai", "kolhapur", "sangali", "patan", "nashik", "nagpur" };
