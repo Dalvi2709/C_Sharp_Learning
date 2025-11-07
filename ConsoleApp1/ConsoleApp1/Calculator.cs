@@ -5,6 +5,9 @@
         public static void Main(String[] args)
         {
 
+                          /* maths calculator useing switch statement*/
+
+
             Console.WriteLine("Chooes Operation");
             Console.WriteLine("1 for Addition");
             Console.WriteLine("2 for Substraction");
