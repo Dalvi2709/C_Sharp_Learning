@@ -14,7 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine(3==5);
             Console.WriteLine(4<8);
             
-
+/* first program */
             Console.ReadLine();
         }
     }
