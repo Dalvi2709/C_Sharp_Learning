@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         public static void Main(String [] args)
         {
+             /* else_if ladder conditional statement*/
             int marks = 82;
 
             if(marks > 90)
